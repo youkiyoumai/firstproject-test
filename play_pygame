@@ -1,0 +1,3 @@
+"""first python project """
+import pygame
+print(8**2)
